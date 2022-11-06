@@ -1,11 +1,8 @@
-### Hello World! I'm Laxeder☕
+### Olá mundo, eu sou Alex Sandro☕
 
-I am a back-end programmer
+Sou um progamador back-end!
 
-I started to program small Android apps in Java (conversation apps and a file manager app) 
+Tenho experiencias com as Linguagens JS/TS, Java e Go.
 
-I'm currently programming in JavaScript, but I prefer programming js with Node
-
-I have a little experience in API building with Node and chatbot development
-
-I'm teaching chatbot development on my YouTube channel ([Link](https://duckduckgo.com/)) 
+Também tenho experiência com desenvolvimento web com Angular.
+E claro, desenvolvimento de API com Node.js
