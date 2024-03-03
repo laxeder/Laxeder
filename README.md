@@ -3,7 +3,7 @@
 Sou um desenvolvedor back-end especializado em TypeScript/JavaScript e apaixonado por criar soluções eficientes e elegantes. Tenho experiência com bancos de dados como MySQL e Redis, além de ser um entusiasta do Docker, utilizando-o para criação e gerenciamento de contêineres. Também sou desenvolvedor de chatbots e criador da API "rompot" que permite a implementação de chatbots de maneira mais simples.
 
 - :computer: Back-end: TypeScript/JavaScript, Go, Java
-- 🖥️ Front-end: HTML, CSS, XML, Bootstrap Angular, React
+- 🖥️ Front-end: HTML, CSS, XML, Bootstrap Angular, React, VueJS
 - :floppy_disk: Bancos de dados: MySQL, Redis
 - :whale: Docker
 - :robot: Desenvolvedor de chatbot
@@ -43,6 +43,8 @@ Sinta-se à vontade para explorar meus repositórios para ver outros projetos in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.JS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" title="Socket.IO" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title="ReactJS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="VueJS" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" title="Quasar" width="40" height="40"/>
 </p>
 
 <h3>Ferramentas</h3>
