@@ -72,8 +72,7 @@ Sinta-se à vontade para explorar meus repositórios para ver outros projetos in
 
 Se você quiser entrar em contato comigo para discutir oportunidades de colaboração ou simplesmente conversar sobre programação, você pode me encontrar nas seguintes redes sociais e plataformas:
 
-- E-mail: laxederbr@gmail.com
-- Twitter: [@laxederbr](https://twitter.com/laxeder)
+- E-mail: laxederdev@gmail.com
 - Instagram: [@laxederbr](https://instagram.com/laxederbr/)
 
 <div align="center">
