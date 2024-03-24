@@ -76,10 +76,7 @@ Se você quiser entrar em contato comigo para discutir oportunidades de colabora
 - Instagram: [@laxederbr](https://instagram.com/laxederbr/)
 
 <div align="center">
-  <a href="https://twitter.com/laxeder">
-    <img src="https://img.shields.io/badge/Twitter-Perfil-%231DA1F2?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-   <a href="https://instagram.com/laxederbr">
-    <img src="https://img.shields.io/badge/Instagram-Perfil-%231DA1F2?style=for-the-badge&logo=instagram" alt="Twitter">
+   <a href="https://instagram.com/laxederdev">
+    <img src="https://img.shields.io/badge/Instagram-Perfil-%231DA1F2?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
 </div>
