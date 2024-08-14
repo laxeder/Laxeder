@@ -37,7 +37,7 @@ Sinta-se à vontade para explorar meus repositórios para ver outros projetos in
 
 <h2>Frameworks</h2>
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sping/spring-original-wordmark.svg" title="SpringBoot" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="SpringBoot" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="AngularJS" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" title="Sequelize" width="40" height="40"/>
