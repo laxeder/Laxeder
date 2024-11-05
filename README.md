@@ -1,4 +1,4 @@
-# Olá! Eu sou Laxeder 👋
+# Olá! Eu sou Alex Sandro 👋
 
 Sou um desenvolvedor back-end especializado em TypeScript/JavaScript e apaixonado por criar soluções eficientes e elegantes. Tenho experiência com bancos de dados como MySQL e Redis, além de ser um entusiasta do Docker, utilizando-o para criação e gerenciamento de contêineres. Também sou desenvolvedor de chatbots e criador da API "rompot" que permite a implementação de chatbots de maneira mais simples.
 
